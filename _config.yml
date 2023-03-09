@@ -1,7 +1,7 @@
-title: SMART BANKING
+title: aicelebrity
 description: Сайт за умно банкиране
 
-url: https://Smart-Banking.github.io
+url: https://aicelebrity.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -29,7 +29,7 @@ navigation:
     url: /contents
 
 disqus:
-  shortname: smart-banking
+  # shortname: smart-banking
   # -github-io
 
 remote_theme: brianmaierjr/long-haul
