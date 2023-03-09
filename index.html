@@ -1,0 +1,34 @@
+---
+layout: default
+title: SMART BANKING
+---
+
+<div class="home" id="home">
+  <div class="posts noList">
+    {%- if paginator.next_page -%}
+      <article>
+        <h3><a class="post-link" href="./intro/">За SMART BANKING</a></h3>
+        <p>Богатото изобилие от възможности в банковата и финтех сфери и морето от разнообразна информация е в състояние да обърка всеки...</p>
+      </article>
+      <h3 class="pageTitle">Последно публикувани:</h3>
+    {%- endif -%}
+    {%- for post in paginator.posts -%}
+      <article>
+        <span class="date">{{ post.date | date: '%d.%m.%Y' }}</span>
+        <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{%- if post.description -%}{{ post.description }}{%- else -%}{{ post.excerpt | strip_html }}{%- endif -%}</p>
+        <!--<a class="post-link" href="{{ post.url }}#disqus_thread">Брой коментари</a>-->
+      </article>
+    {%- endfor -%}
+  </div>
+  <!-- Pagination links -->
+  <div class="pagination">
+    {%- if paginator.previous_page -%}
+      <a href="{{ paginator.previous_page_path }}" class="previous button__outline">По-нови</a> 
+    {%- endif -%}
+    {%- if paginator.next_page -%}
+      <a href="{{ paginator.next_page_path }}" class="next button__outline">По-стари</a>
+    {%- endif -%}
+  </div>
+</div>
+<!--<script id="dsq-count-scr" src="//smart-banking.disqus.com/count.js" async></script>-->
