@@ -1,5 +1,5 @@
-title: AICelebrity
-description: Сайт за виртуални интервюта с известни личности.
+title: aicelebrity
+description: Сайт за умно банкиране
 
 url: https://aicelebrity.github.io
 paginate_path: "blog/page:num/"
@@ -7,7 +7,8 @@ permalink: blog/:title/
 
 social:
   email: cxpucmob@gmail.com
-#  github: 
+#  github: brianmaierjr
+#  linkedin: https://Smart-Banking.github.io
 
 # Header Option
 # header: large
@@ -20,17 +21,17 @@ paginate: 5
 navigation:
   - title: Начало
     url: /index.html
-  - title: За AICelebrity
+  - title: За SMART BANKING
     url: /intro
   - title: Контакти
     url: /contact
   - title: Съдържание
     url: /contents
 
-# disqus:
-  # shortname: 
+disqus:
+  # shortname: smart-banking
   # -github-io
 
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: brianmaierjr/long-haul
 plugins:
 - jekyll-remote-theme
