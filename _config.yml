@@ -22,9 +22,13 @@ navigation:
     url: /index.html
   - title: За AICelebrity
     url: /intro
+  - title: About AICelebrity
+    url: /intro-en
   - title: Контакти
     url: /contact
   - title: Съдържание
+    url: /contents
+  - title: Contents
     url: /contents
 
 # disqus:
