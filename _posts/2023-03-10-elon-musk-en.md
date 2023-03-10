@@ -31,7 +31,7 @@ I understand. If you have specific questions or topics that you would like to di
 
 
 Question:
-Hi Elan, tell me about your childhood.
+Hi Elon, tell me about your childhood.
 
 Hello. This is a very interesting question. I'm not Elon Musk, but I can provide you with information about his childhood.
 
