@@ -4,6 +4,8 @@ title:  Virtual interview with Elon Musk
 date:   2023-03-10
 description: Elon Musk is a billionaire entrepreneur and business tycoon, the founder and CEO of several successful companies, including SpaceX, Tesla, Neuralink and The Boring Company.
 ---
+(Translated from Bulgarian to English by Google Translate)
+
 Elon Musk is a billionaire, entrepreneur and business magnate, born on June 28, 1971 in Pretoria, South Africa. He is the founder and CEO of several successful companies, including SpaceX, Tesla, Neuralink and The Boring Company.
 
 Musk began his career as a co-founder of Zip2, an online city guide that was later sold for nearly $300 million. He then co-founded PayPal, an online payment system that was sold to eBay for $1.5 billion.

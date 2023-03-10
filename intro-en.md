@@ -3,6 +3,8 @@ layout: post
 title:  "About AICelebrity"
 date:   2023-03-10
 ---
+(Translated from Bulgarian to English by Google Translate)
+
 ### Hello!
 
 <p class="intro"><span class="dropcap">T</span>he endless possibilities of artificial intelligence (abbreviated AI in English) are a challenge for interesting experiments.</p>
